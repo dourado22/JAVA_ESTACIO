@@ -1,1 +1,61 @@
+1 - No Java, a classe que implementa uma lista ordenada que permite a inclusão de elementos nulos (null) é:
 
+
+A List
+B Collection
+C HashMap  
+D HashSet
+E ArrayList
+
+// resposta correta é a letra E, ArrayList.
+
+
+2- Considere a interface Java declarada abaixo:
+public interface NewInterface {
+    
+}
+
+A instrução que não causará erro, se colocada no corpo desta interface (entre as chaves), é:
+
+A default int obterDados(); 
+B public NewInterface(); 
+C protected void consultarProcesso(); 
+D public void NewInterface();
+E public int aumentar Salario(int s){return 5*1.1;} 
+
+// resposta correta é a letra D, public void NewInterface();
+
+
+2- Um objeto de exceção possui, na linguagem Java, o método:
+
+A Getfor().
+B Getchvar().
+C Getprior().
+D Getsign().
+E getMessage().
+
+// resposta correta é a letra E, getMessage().
+
+
+4- Na linguagem Java, uma thread executável pode entrar em um determinado estado por um intervalo de tempo específico, retornando ao estado executável quando for notificada por outra thread ou quando esse intervalo expirar. 
+Essa situação caracteriza o seguinte estado:
+
+A Cancelado
+B Bloqueado
+C Espera sincronizada
+D Novo
+E Terminado
+
+// resposta correta é a letra C, Espera sincronizada.
+
+
+5- O padrão DAO surgiu para resolver um problema recorrente em sistemas cadastrais, onde comandos SQL dispersos, em meio ao código do aplicativo, diminuem o reuso e aumentam a dificuldade de manutenção. Esse padrão tem como objetivo 
+concentrar os comandos SQL em classes específicas, onde o método alterar, por exemplo, receberia uma entidade como parâmetro e invocaria um comando do tipo:
+
+A CREATE
+B INSERT
+C DELETE
+D SELECT
+E UPDATE
+
+// resposta correta é a letra E, UPDATE.
